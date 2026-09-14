@@ -1,0 +1,36 @@
+[  
+    {
+        "name": "Jesreel",
+        "id": 1,
+        "age": 20,
+        "grade": 95
+    },
+    {
+        "name": "Kevin",
+        "id": 2,
+        "age": 22,
+        "grade": 88
+    },
+    {
+
+        "name": "Errol",
+        "id": 3,
+        "age": 21,
+        "grade": 90
+    },
+    {
+        "name": "Thervin",
+        "id": 4,
+        "age": 23,
+        "grade": 85
+    },
+    {
+        "name": "Jr",
+        "id": 5,
+        "age": 19,
+        "grade": 80
+
+    }
+     
+
+]
